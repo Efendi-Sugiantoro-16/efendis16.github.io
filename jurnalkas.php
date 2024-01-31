@@ -36,21 +36,21 @@
                     <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jurnal <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="jurnalpembelian.php">Jurnal Pembelian</a></li>
-                            <li><a href="jurnalpenjualan.php">Jurnal Penjualan</a></li>
-                            <li><a href="jurnalpenggajian.php">Jurnal Penggajian</a></li>
-                            <li><a href="jurnalkas.php">Jurnal Penerimaan Kas</a></li>
-                            <li><a href="jurnalpengeluaran.php">Jurnal Pengeluaran Kas</a></li>
+                        <li><a href="jurnalpembelian.html">Jurnal Pembelian</a></li>
+                        <li><a href="jurnalpenjualan.html">Jurnal Penjualan</a></li>
+                        <li><a href="jurnalpenggajian.html">Jurnal Penggajian</a></li>
+                        <li><a href="jurnalkas.html">Jurnal Penerimaan Kas</a></li>
+                        <li><a href="jurnalpengeluaran.html">Jurnal Pengeluaran Kas</a></li>
                         </ul>
                     </li>
                     <li class="">
-                        <a href="jurnalUmum.php" class="dropdown-toggle">Jurnal Umum </a>
+                        <a href="jurnalUmum.html" class="dropdown-toggle">Jurnal Umum </a>
                     </li>
                     <li class="">
-                        <a href="bukuBesar.php" class="dropdown-toggle">Buku Besar </a>
+                        <a href="bukuBesar.html" class="dropdown-toggle">Buku Besar </a>
                     </li>
                     <li class="">
-                        <a href="logout.php" class="dropdown-toggle">Keluar </a>
+                        <a href="logout.html" class="dropdown-toggle">Keluar </a>
                     </li>
                 </ul>
             </div>

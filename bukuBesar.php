@@ -22,16 +22,16 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="dropdown">
-                        <a href="home.php" class="dropdown" data-toggle="dropdown">Akuntansi App</a>
+                        <a href="index.html" class="dropdown" data-toggle="dropdown">Akuntansi App</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jurnal <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="jurnalpembelian.php">Jurnal Pembelian</a></li>
-                            <li><a href="jurnalpenjualan.php">Jurnal Penjualan</a></li>
-                            <li><a href="jurnalpenggajian.php">Jurnal Penggajian</a></li>
-                            <li><a href="jurnalkas.php">Jurnal Penerimaan Kas</a></li>
-                            <li><a href="jurnalpengeluaran.php">Jurnal Pengeluaran Kas</a></li>
+                            <li><a href="jurnalpembelian.html">Jurnal Pembelian</a></li>
+                            <li><a href="jurnalpenjualan.html">Jurnal Penjualan</a></li>
+                            <li><a href="jurnalpenggajian.html">Jurnal Penggajian</a></li>
+                            <li><a href="jurnalkas.html">Jurnal Penerimaan Kas</a></li>
+                            <li><a href="jurnalpengeluaran.html">Jurnal Pengeluaran Kas</a></li>
                         </ul>
                     </li>
                     <li class="">
